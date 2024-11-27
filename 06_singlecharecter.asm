@@ -1,0 +1,1 @@
+;11. (a) Write a program in assembly language to print a single character on screen.

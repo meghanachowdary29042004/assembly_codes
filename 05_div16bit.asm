@@ -1,0 +1,1 @@
+;10. Write an assembly language program to perform division of 16-bit data.
